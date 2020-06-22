@@ -46,7 +46,6 @@
       }, 'xml');
     });
 
-
     $(window).scroll(function () {
       var nav = $('.nav');
       if ($(this).scrollTop() > 50) {
