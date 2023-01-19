@@ -10,7 +10,7 @@ export const path = {
     files: `${buildFolder}/`
   },
   src: {
-    html: `./*.html`,
+    html: `${srcFolder}/*.html`,
     files: `${srcFolder}/**/*.*`
   },
   watch: {
