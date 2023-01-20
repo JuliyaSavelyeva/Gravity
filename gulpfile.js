@@ -3,10 +3,12 @@ import { path } from './gulp/config/path.js';
 import { copy } from './gulp/tasks/copy.js';
 import { reset } from './gulp/tasks/reset.js';
 import { html } from './gulp/tasks/html.js';
+import { plugins } from './gulp/config/.js';
 
 export const app = {
   path,
-  gulp
+  gulp,
+  plugins
 };
 
 const watch = () => {

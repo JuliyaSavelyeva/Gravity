@@ -24,3 +24,14 @@ function burgerMenu(selector) {
 }
 
 burgerMenu('.burger-menu');
+
+const test = {
+  age: 25,
+  name: 'Lora'
+};
+
+const test2 = new Set();
+test2.add(test);
+test2.add(test);
+
+console.log(test2.entries());
