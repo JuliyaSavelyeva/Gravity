@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3abc28a4-aa59-418d-8174-c4e9612a6c1c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/gulp/tasks/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/html/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/main1.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulp/config/plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulp/config/plugins.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gulp/tasks/html.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulp/tasks/html.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
@@ -103,7 +107,8 @@
       <workItem from="1674125796669" duration="13031000" />
       <workItem from="1674216021192" duration="12555000" />
       <workItem from="1674476899573" duration="517000" />
-      <workItem from="1674822954904" duration="8874000" />
+      <workItem from="1674822954904" duration="9178000" />
+      <workItem from="1675164481539" duration="7354000" />
     </task>
     <task id="LOCAL-00001" summary="add prettier">
       <created>1672402714854</created>
@@ -133,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674243388112</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="webpHtmlNosvg plugin">
+      <created>1674834224003</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674834224004</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,7 +168,8 @@
     <MESSAGE value="add prettier" />
     <MESSAGE value="change setup gulp" />
     <MESSAGE value="install gulp-file-include" />
-    <option name="LAST_COMMIT_MESSAGE" value="install gulp-file-include" />
+    <MESSAGE value="webpHtmlNosvg plugin" />
+    <option name="LAST_COMMIT_MESSAGE" value="webpHtmlNosvg plugin" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
